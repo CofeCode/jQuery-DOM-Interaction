@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.output {
+    border: 1px solid #ccc; 
+    font-size: 16px; 
+    height: 20px;
+    padding: 5px;
+}
+
+.big-title {
+  font-size: 1rem;
+  color: aqua;
+}
+
+.wevdsxr:hover{
+
+cursor: pointer;}
